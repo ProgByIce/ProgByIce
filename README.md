@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my Computer Science diploma thesis, where I'm developing my own music reccomendation system!
+- 🌱 I’m currently learning about unsupervised learning algorithms, particularly clustering techniques like K-Means
 <!--
 **ProgByIce/ProgByIce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
